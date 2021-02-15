@@ -679,7 +679,7 @@ Sans Serif
 'Dhurjati', sans-serif
 'Kantumruy', sans-serif
 'Gidugu', sans-serif
-
+'Reggae One', sans-serif
 
 =====================================
 Serif
